@@ -1,7 +1,7 @@
 ![Web Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/473006728_122189535140089439_8686489109504378865_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHjGuu5g9A7x8jFQPUJ_srLiQC7VHRobO-JALtUdGhs7-1dnnf3pifmwI8JuaVjQDHruYyv1JMiAPOvwK8PDspG&_nc_ohc=Czz4SOrV374Q7kNvgFHH1Xx&_nc_oc=Adi_x5ID4n8THJVeJnasLMqvAbVzMLfFrYTrkPXCZ7KGEKgOxy0M13a5-YUzWfXzaos&_nc_zt=23&_nc_ht=scontent.fdac5-2.fna&_nc_gid=AkK3HinN7UI6EuRKewPyFMS&oh=00_AYDtijsc6FFZFP4131f643aj2TlfpS7ECqrpTEzSzpljgQ&oe=67972AD1)
 
-### Hi there 👋, I'm Md Abdul KAium
-#### Web Developer
+### Hi there 👋, I'm Md Abdul Kaium
+# Web Developer 
 
 
 Hi there! 👋 I'm [Your Name], a creative and dedicated Front-End Developer with a passion for crafting engaging and user-friendly web interfaces. I focus on delivering responsive, intuitive, and aesthetically pleasing designs.
