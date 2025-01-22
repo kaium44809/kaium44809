@@ -39,11 +39,7 @@ Skills 🔥:  REACT / JS / HTML / CSS
 ✅ 👯 I’m looking to collaborate on GitHub 
 ✅ 💬 Ask me about Web Developer 
 
-# 🔥🔥There are some languages ​​that I have learned well :
-https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png
-
-
-
+# 🔥🔥
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/kaium44809)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/18cP8MQaoe/)  
 
