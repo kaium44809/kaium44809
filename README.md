@@ -5,7 +5,7 @@
 
 Hi there! 👋 I'm [Your Name], a creative and dedicated Front-End Developer with a passion for crafting engaging and user-friendly web interfaces. I focus on delivering responsive, intuitive, and aesthetically pleasing designs.
 
-💻 Skills & Technologies
+💻 Skills & Technologies 🔥
 
 Core Skills: HTML5, CSS3, JavaScript (ES6+)
 
@@ -33,11 +33,11 @@ Contact : 01756695893
 
 Facebook Id : https://www.facebook.com/share/18cP8MQaoe/
 
-Skills:  REACT / JS / HTML / CSS
+Skills 🔥:  REACT / JS / HTML / CSS
 
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Developer 
+✅ 🌱 I’m currently learning Javascript 
+✅ 👯 I’m looking to collaborate on GitHub 
+✅ 💬 Ask me about Web Developer 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/kaium44809)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/18cP8MQaoe/)  
