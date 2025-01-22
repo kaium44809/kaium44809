@@ -1,6 +1,4 @@
 # Hi there 👋
-####### Hi there 👋
-
 
 **kaium44809/kaium44809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
